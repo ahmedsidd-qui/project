@@ -1,0 +1,48 @@
+.section-three{
+    display: flex;
+    align-items: center;
+    padding: 10% 0;
+}
+.section-three-content h3{
+    text-align: justify;
+    font-size: 40px;
+    padding-bottom: 15px;
+} 
+.section-three p{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.section-four h3{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.section-six{
+    display: flex;
+    justify-content: space-between; 
+    height: 90vh;
+    margin-bottom: 13%;
+}
+.section-six-left h4{
+    padding: 7px 0;
+}
+.section-six-left img{
+    width: 100%;
+}
+.section-six-left ul li{
+    padding: 8px 0;
+}
+
+
+form{
+    background-color: rgb(44, 44, 122);
+    color: #fff;
+    padding: 25px 25px 40px 25px;
+    border-radius: 30px;
+}
+form h4{
+    font-size: 20px;
+}
+form input, textarea{
+    padding: 15px 8vw;
+}
